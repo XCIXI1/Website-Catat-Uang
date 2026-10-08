@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Catatuang</title>
+  <meta name="description" content="Catat pemasukan dan pengeluaran, lihat rekapnya, dan unduh laporannya.">
+  <meta name="theme-color" content="#e3eeff">
+  <script src="/theme.js"></script>
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/icons/icon-192.png">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div id="boot" class="boot" aria-live="polite">Memuat…</div>
+  <main id="auth" class="auth" hidden></main>
+  <div id="app" class="app" hidden>
+    <nav id="nav" class="nav" aria-label="Menu utama"></nav>
+    <main id="view" class="view" tabindex="-1"></main>
+    <button id="themefab" class="theme-fab" type="button"></button>
+    <button id="fab" class="fab" type="button" aria-label="Catat transaksi baru">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
+      <span>Catat</span>
+    </button>
+  </div>
+  <dialog id="dlg" class="dlg"></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="/app.js" defer></script>
+</body>
+</html>
