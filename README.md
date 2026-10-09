@@ -5,7 +5,7 @@ Aplikasi berbasis web yang dirancang untuk membantu pengguna mencatat dan mengel
 ---
 
 ## Tampilan Aplikasi (Screenshot)
-![Preview Tampilan Aplikasi](./Website-Catat-Uang/Foto%20Website%20catat%20Keuangan/Screenshot%202026-10-09%20073313.png)
+![Preview Tampilan Aplikasi](./Foto%20Website%20catat%20Keuangan/Screenshot%202026-10-09%20073313.png)
 
 ---
 
