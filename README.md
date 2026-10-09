@@ -66,9 +66,13 @@ Sebelum memulai, pastikan kamu telah menginstall modul berikut di komputer kamu:
 
    **DOS**
    ```cmd
-   npm start (jika tidak bisa, gunakan) npm.cmd start
+   npm start
    ```
-7. **Akses Aplikasi:**
+   (jika tidak bisa, gunakan)
+   ```cmd
+   npm.cmd start
+   ```
+8. **Akses Aplikasi:**
 
    Buka browser dan buka alamat http://localhost:3000, buat akun, lalu mulai mencatat.    Seluruh data transaksi akan tersimpan secara lokal di folder data/.
 ---
