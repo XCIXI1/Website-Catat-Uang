@@ -92,13 +92,13 @@ Sebelum memulai, pastikan kamu telah menginstall modul berikut di komputer kamu:
 
     **Bash**
    ```cmd
-   git clone [https://github.com/XCIXI1/Website-Catat-Keuangan.git](https://github.com/XCIXI1/Website-Catat-Keuangan.git)
+   git clone https://github.com/XCIXI1/Website-Catat-Uang.git
    ```
 4. **Masuk ke Direktori Proyek:**
 
    **Bash**
    ```cmd
-   cd Website-Catat-Keuangan
+   cd Website-Catat-Uang
    ```
 5. **Install Dependensi**
 
